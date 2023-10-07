@@ -1,6 +1,6 @@
-### Hi there 👋
+# Luis Chaves Rodriguez (@lucharo)
 
-# Experience
+## Experience
 
 - MEng Biomedical Engineering - Imperial College London (ICL) (2015-2019)
 - MSc Health Data Science & Machine Learning - ICL (2019-2020)
@@ -8,14 +8,14 @@
 - Senior Data Scientist I at Visa UK&I and then Visa Europe (2021-2022)
 - Senior Data Engineer II at Visa Europe (2022 - 2023)
 
-# Packages 📦
+## Packages 📦
 
 - [raceplotly](https://github.com/lucharo/raceplotly) [![Downloads](https://pepy.tech/badge/raceplotly)](https://pepy.tech/project/raceplotly)
 - [nb2medium](https://github.com/lucharo/nb2medium) [![Downloads](https://pepy.tech/badge/nb2medium)](https://pepy.tech/project/nb2medium)
 
-# Articles (Medium)
+## Articles (Medium)
 
-# Interests
+## Interests
 
 
 <!--
