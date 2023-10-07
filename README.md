@@ -17,6 +17,11 @@
 
 ## Interests
 
+## Personal website (https://luischaves.xyz)
+
+- Main page (WIP)
+- Recipe portfolio [/recipe-portfolio](https://luischaves.xyz/recipe-portfolio): my opportunity to learn web development, React, and Typescript while making something useful for myself with features I have not seen before on other websites.
+- Instagram Recipe Explore [/recipes](https://luischaves.xyz/recipes): Instagram does not have a search feature for saved posts which is how I discover new recipes to try out. Scrape my own Instagram saved posts and create a [mkdocs](https://github.com/mkdocs/mkdocs) gallery site with a search bar.
 
 <!--
 **lucharo/lucharo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
