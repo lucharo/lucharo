@@ -2,7 +2,7 @@
 
 ## Experience
 
-- MEng Biomedical Engineering - Imperial College London (ICL) (2015-2019) - MEng Thesis: **
+- MEng Biomedical Engineering - Imperial College London (ICL) (2015-2019) - MEng Thesis: *Study of Cooperation in Synthetic Microbial Communities by Division of Labour*
 - MSc Health Data Science & Machine Learning - ICL (2019-2020) - MSc Thesis with Visa: *Using transactional data to improve our understanding of health inequalities in the UK*
 - Data Scientist at Visa UK&I DS Team (2020-2021)
 - Senior Data Scientist I at Visa UK&I and then Visa Europe (2021-2022)
