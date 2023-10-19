@@ -15,7 +15,7 @@
 
 ## Articles (Medium)
 
-### Published in Towards Data Science 
+### Published in Towards Data Science
 
 - [Announcing nb2medium](https://medium.com/towards-data-science/announcing-nb2medium-d123e2a8d52c)
 - [Automating a COVID19 report update and publishing with GitHub Actions](https://medium.com/towards-data-science/automating-a-covid19-report-update-and-publishing-with-github-actions-a3d64315e515)
@@ -32,15 +32,16 @@
 - Slow journalism
 - History, Politics, social justice
 - Data Science, Data Engineering and Web Applications
-- BioTech, MedTech, Biomedical engineering
+- BioTech, MedTech, Biomedical Engineering
 
 ## Personal website (https://luischaves.xyz)
 
 - Main page (WIP)
 - Recipe portfolio [/recipe-portfolio](https://luischaves.xyz/recipe-portfolio): my opportunity to learn web development, React, and Typescript while making something useful for myself with features I have not seen before on other websites.
-- Instagram Recipe Explore [/recipes](https://luischaves.xyz/recipes): Instagram does not have a search feature for saved posts which is how I discover new recipes to try out. Scrape my own Instagram saved posts and create a [mkdocs](https://github.com/mkdocs/mkdocs) gallery site with a search bar.
+- Instagram Recipe Explorer [/recipes](https://luischaves.xyz/recipes): Instagram does not have a search feature for saved posts which is how I discover new recipes to try out. Scrape my own Instagram saved posts and create a [mkdocs](https://github.com/mkdocs/mkdocs) gallery site with a search bar.
 
 ## Other notable projects
 
 - [ONS Data Visualiser](https://lucha6.shinyapps.io/ONS2019dash/) deployed as a Shiny app to help others and myself explore Local Authority District (LAD) data from the Office For National Statistics (ONS) as part of my MSc Project in 2019/2020.
+- [YouTube AI Summarisation App](https://youtube-ai-summaries.streamlit.app/): Streamlit app that creates text summaries of Youtube videos using OpenAI models via the OpenAI API.
 - I was part of Imperial College's 2018 [iGEM](https://competition.igem.org/) team where we built an electrogenetic circuit to connect electrical currents to bacteria genetic expression. I was part of the hardware team building electrode array as well as the modeling team, simulating the electrochemical reactions necessary to induce gene expression in synthetically modified bacteria. Read more on [the project page](https://2018.igem.org/Team:Imperial_College/Project). The project led to [a paper (*Synthetic biology and bioelectrochemical tools for electrogenetic system engineering*)](https://www.science.org/doi/10.1126/sciadv.abm5091) years later, I was not part of further research.
