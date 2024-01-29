@@ -34,11 +34,11 @@
 - Data Science, Data Engineering and Web Applications
 - BioTech, MedTech, Biomedical Engineering
 
-## Personal website (https://luischaves.xyz)
+## Personal website (https://luischav.es)
 
 - Main page (WIP)
-- Recipe portfolio [/recipe-portfolio](https://luischaves.xyz/recipe-portfolio): my opportunity to learn web development, React, and Typescript while making something useful for myself with features I have not seen before on other websites.
-- Instagram Recipe Explorer [/recipes](https://luischaves.xyz/recipes): Instagram does not have a search feature for saved posts which is how I discover new recipes to try out. Scrape my own Instagram saved posts and create a [mkdocs](https://github.com/mkdocs/mkdocs) gallery site with a search bar.
+- Recipe portfolio [/recipe-portfolio](https://luischav.es/recipe-portfolio): my opportunity to learn web development, React, and Typescript while making something useful for myself with features I have not seen before on other websites.
+- Instagram Recipe Explorer [/recipes](https://luischav.es/recipes): Instagram does not have a search feature for saved posts which is how I discover new recipes to try out. Scrape my own Instagram saved posts and create a [mkdocs](https://github.com/mkdocs/mkdocs) gallery site with a search bar.
 
 ## Other notable projects
 
