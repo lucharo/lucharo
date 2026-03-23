@@ -27,7 +27,7 @@ AI-driven coding and agents have completely lowered the barriers to entry, letti
 
 - 📝 **Early packaging & knowledge sharing (2019--2021)** — During my MSc and the height of the COVID pandemic, I got into hackathons, self-hosting, and understanding more about computer architectures. This was my earliest work around Python packaging and technical writing, where I posted several articles on [Towards Data Science](https://medium.com/@luischavesrodriguez) ([bar chart races with Plotly](https://medium.com/towards-data-science/making-a-bar-chart-race-plot-using-plotly-made-easy-8dad3b1da955), [automating COVID-19 reports](https://medium.com/towards-data-science/automating-a-covid19-report-update-and-publishing-with-github-actions-a3d64315e515), [interactive COVID-19 dashboards](https://medium.com/towards-data-science/interactive-covid19-report-with-rmarkdown-plotly-leaflet-and-shiny-c6a716af7d9b)) and published my first open-source packages: [raceplotly](https://github.com/lucharo/raceplotly) (45k+ downloads) and [nb2medium](https://github.com/lucharo/nb2medium) (17k+ downloads).
 
-- 🔬 **[society](https://github.com/lucharo/society)** — Agent-to-Agent orchestration over JSON-RPC 2.0 (Go).
+- 🔬 **[society](https://github.com/lucharo/society)** — Agent-to-agent communication powered by mainstream transport protocols like SSH and HTTP.
 
 - 🔄 **[refine](https://github.com/lucharo/refine)** — Reflect on Claude Code sessions and refine skills through use.
 
