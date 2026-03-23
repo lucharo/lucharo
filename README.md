@@ -31,13 +31,9 @@ AI-driven coding and agents have completely lowered the barriers to entry, letti
 
 - 🔄 **[refine](https://github.com/lucharo/refine)** — Reflect on Claude Code sessions and refine skills through use.
 
-- 🤖 **[roborev](https://github.com/lucharo/roborev)** — Continuous background code review for agents — TUI + CLI.
-
-- 📏 **[eval-claude](https://github.com/lucharo/eval-claude)** — Run inspect_ai evals via Claude Code CLI.
+- 🧪 **[eval-claude / did-they-nerf-claude](https://github.com/lucharo/eval-claude)** — Run inspect_ai evals via Claude Code CLI. _Coming soon._
 
 - 📖 **[etymology-for-all](https://github.com/lucharo/etymology-for-all)** — Free etymology for everyone.
-
-- 🧪 **did-they-nerf-claude** — _Coming soon._
 
 ### Open Source Contributions
 
