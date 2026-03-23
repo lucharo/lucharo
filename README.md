@@ -11,19 +11,6 @@ Biomedical engineer turned data scientist turned Machine Learning Engineer. Curr
 
 ---
 
-### Career
-
-| When | Role | Where |
-|------|------|-------|
-| 2025 -- | ML Engineer | **GSK** — transformer models on RNA for oligo drug design & delivery, multi-node multi-GPU training on Vertex AI, pioneered Claude Code adoption across AIML org |
-| 2024 -- 2025 | Data & ML Engineer | **Merqato** — demand forecasting for European fresh produce wholesalers (engineer #3) |
-| 2024 | Career break | Upskilling |
-| 2023 -- 2024 | Sr. Data Scientist II | **Visa Europe** — Technical Excellence team, scaled ETL across 27 European banks, led inner-source team of 8 |
-| 2021 -- 2022 | Sr. Data Scientist I | **Visa UK&I** — built VisaVerse, adopted by 400+ data scientists globally |
-| 2020 -- 2021 | Data Scientist | **Visa UK&I** — led GBP 1M consulting project, GPU-accelerated ML R&D |
-| 2019 -- 2020 | MSc Health Data Science & ML | **Imperial College London** — Distinction, 3rd/25 |
-| 2015 -- 2019 | MEng Biomedical Engineering | **Imperial College London** — First-Class Honours, iGEM 2018 |
-
 ### Projects
 
 AI-driven coding and agents have completely lowered the barriers to entry, letting me fully express my creativity through code. These span agent orchestration, novel interfaces, developer tooling, and more.
@@ -31,8 +18,6 @@ AI-driven coding and agents have completely lowered the barriers to entry, letti
 - 🧵 **[mainthread](https://github.com/lucharo/mainthread)** — An agentic harness for creating trees of agents that communicate for long-running tasks and autonomous research. I previously explored agent-to-agent communication with [c2c](https://github.com/lucharo/c2c) (Oct/Nov 2025) before it became mainstream — predating features like [Claude's agent teams](https://docs.anthropic.com/en/docs/claude-code/teams), [OpenAI Codex's multi-agent support](https://openai.com/index/codex/), and [Google's Agent-to-Agent protocol](https://google.github.io/A2A/). That early thinking was folded into mainthread.
 
 - 🖥️ **[always-on-claude](https://github.com/lucharo/always-on-claude)** — Guide for setting up an always-on Claude Code server with Tailscale + Mutagen, accessible from any device.
-
-- 🚇 **[tfl-status](https://github.com/lucharo/tfl-status)** — TfL status page in the style of modern tech status pages. Live at [tfl.luischav.es](https://tfl.luischav.es).
 
 - 📊 **[parquet-peek](https://github.com/lucharo/parquet-peek)** — Browse, sort & filter Parquet files directly in your browser. Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/parquet-peek/ncgpleihcemfajejepcobggneogghkmc).
 
@@ -60,6 +45,17 @@ Active Discord member in: **marimo**, **polars**, **pixi**, **happier** (say hi!
 ### Beyond Code
 
 Core expertise is ML, but broad interests across the stack: low-level programming, full-stack apps, iOS apps (colour perception tools for colourblind people), Chrome extensions, data pipelines, data visualisation, open source, novel interfaces, wearable fitness tracking, and data-for-good.
+
+### Career
+
+- **2025 --** ML Engineer, **GSK** — transformer models on RNA for oligo drug design & delivery, multi-node multi-GPU training on Vertex AI, pioneered Claude Code adoption across AIML org
+- **2024 -- 2025** Data & ML Engineer, **Merqato** — demand forecasting for European fresh produce wholesalers (engineer #3)
+- **2024** Career break — upskilling
+- **2023 -- 2024** Sr. Data Scientist II, **Visa Europe** — Technical Excellence team, scaled ETL across 27 European banks, led inner-source team of 8
+- **2021 -- 2022** Sr. Data Scientist I, **Visa UK&I** — built VisaVerse, adopted by 400+ data scientists globally
+- **2020 -- 2021** Data Scientist, **Visa UK&I** — led GBP 1M consulting project, GPU-accelerated ML R&D
+- **2019 -- 2020** MSc Health Data Science & ML, **Imperial College London** — Distinction, 3rd/25
+- **2015 -- 2019** MEng Biomedical Engineering, **Imperial College London** — First-Class Honours, iGEM 2018
 
 ---
 
