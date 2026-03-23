@@ -5,7 +5,7 @@
 
 # Luis Chaves Rodriguez
 
-Biomedical engineer turned ML engineer. Currently training transformer models on RNA sequences for oligonucleotide drug design and delivery at GSK. Outside of work, I'm a passionate builder of creative software projects: multi-agent orchestration systems, novel human-agent interfaces, and open-source developer tools.
+Biomedical engineer turned data scientist turned Machine Learning Engineer. Currently training neural nets for oligonucleotide drug design and delivery at GSK, as well as exploring agentic drug discovery. Outside of work, I really enjoy building all sorts of side projects — from things that help me in my daily life to bigger, more ambitious and visionary projects like agentic systems, novel human-to-agent interfaces and the design around them, and open-source developer tools. I enjoy tinkering, self-hosting, and running a homelab.
 
 [luischav.es](https://luischav.es) · [LinkedIn](https://linkedin.com/in/lucharo) · London, UK
 
@@ -28,53 +28,17 @@ Biomedical engineer turned ML engineer. Currently training transformer models on
 
 AI-driven coding and agents have completely lowered the barriers to entry, letting me fully express my creativity through code. These span agent orchestration, novel interfaces, developer tooling, and more.
 
-<table>
-<thead>
-<tr><th width="200">Project</th><th width="70">Stars</th><th>Description</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><b><a href="https://github.com/lucharo/mainthread">mainthread</a></b></td>
-<td><a href="https://github.com/lucharo/mainthread"><img src="https://img.shields.io/github/stars/lucharo/mainthread?style=flat-square&color=blue&label=" alt="stars"></a></td>
-<td>Trees of agents that communicate for long-running tasks and autonomous research</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/lucharo/c2c">c2c</a></b></td>
-<td><a href="https://github.com/lucharo/c2c"><img src="https://img.shields.io/github/stars/lucharo/c2c?style=flat-square&color=blue&label=" alt="stars"></a></td>
-<td>MCP server for recursive agent delegation; built Oct 2025, predating similar approaches</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/lucharo/always-on-claude">always-on-claude</a></b></td>
-<td><a href="https://github.com/lucharo/always-on-claude"><img src="https://img.shields.io/github/stars/lucharo/always-on-claude?style=flat-square&color=blue&label=" alt="stars"></a></td>
-<td>Guide for always-on Claude Code server with Tailscale + Mutagen</td>
-</tr>
-<tr>
-<td><b><a href="https://tfl.luischav.es">tfl-status</a></b></td>
-<td><a href="https://github.com/lucharo/tfl-status"><img src="https://img.shields.io/github/stars/lucharo/tfl-status?style=flat-square&color=blue&label=" alt="stars"></a></td>
-<td>TfL status page in the style of modern tech status pages</td>
-</tr>
-<tr>
-<td><b><a href="https://chromewebstore.google.com/detail/parquet-peek/ncgpleihcemfajejepcobggneogghkmc">parquet-peek</a></b></td>
-<td><a href="https://github.com/lucharo/parquet-peek"><img src="https://img.shields.io/github/stars/lucharo/parquet-peek?style=flat-square&color=blue&label=" alt="stars"></a></td>
-<td>Browse, sort & filter Parquet files in your browser (Chrome extension)</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/lucharo/slidev-marimo">slidev-marimo</a></b></td>
-<td><a href="https://github.com/lucharo/slidev-marimo"><img src="https://img.shields.io/github/stars/lucharo/slidev-marimo?style=flat-square&color=blue&label=" alt="stars"></a></td>
-<td>Marimo notebook integration for Slidev (Pyodide/WASM + live kernel)</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/lucharo/raceplotly">raceplotly</a></b></td>
-<td><a href="https://github.com/lucharo/raceplotly"><img src="https://img.shields.io/github/stars/lucharo/raceplotly?style=flat-square&color=blue&label=" alt="stars"></a></td>
-<td>Bar chart race plots with Plotly (45k+ downloads)</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/lucharo/nb2medium">nb2medium</a></b></td>
-<td><a href="https://github.com/lucharo/nb2medium"><img src="https://img.shields.io/github/stars/lucharo/nb2medium?style=flat-square&color=blue&label=" alt="stars"></a></td>
-<td>Publish Jupyter notebooks to Medium (17k+ downloads)</td>
-</tr>
-</tbody>
-</table>
+- 🧵 **[mainthread](https://github.com/lucharo/mainthread)** — An agentic harness for creating trees of agents that communicate for long-running tasks and autonomous research. I previously explored agent-to-agent communication with [c2c](https://github.com/lucharo/c2c) (Oct/Nov 2025) before it became mainstream — predating features like [Claude's agent teams](https://docs.anthropic.com/en/docs/claude-code/teams), [OpenAI Codex's multi-agent support](https://openai.com/index/codex/), and [Google's Agent-to-Agent protocol](https://google.github.io/A2A/). That early thinking was folded into mainthread.
+
+- 🖥️ **[always-on-claude](https://github.com/lucharo/always-on-claude)** — Guide for setting up an always-on Claude Code server with Tailscale + Mutagen, accessible from any device.
+
+- 🚇 **[tfl-status](https://github.com/lucharo/tfl-status)** — TfL status page in the style of modern tech status pages. Live at [tfl.luischav.es](https://tfl.luischav.es).
+
+- 📊 **[parquet-peek](https://github.com/lucharo/parquet-peek)** — Browse, sort & filter Parquet files directly in your browser. Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/parquet-peek/ncgpleihcemfajejepcobggneogghkmc).
+
+- 🎞️ **[slidev-marimo](https://github.com/lucharo/slidev-marimo)** — Marimo notebook integration for Slidev presentations (Pyodide/WASM + live kernel).
+
+- 📝 **Early packaging & knowledge sharing (2019--2021)** — During my MSc and the height of the COVID pandemic, I got into hackathons, self-hosting, and understanding more about computer architectures. This was my earliest work around Python packaging and technical writing, where I posted several articles on [Towards Data Science](https://medium.com/@luischavesrodriguez) ([bar chart races with Plotly](https://medium.com/towards-data-science/making-a-bar-chart-race-plot-using-plotly-made-easy-8dad3b1da955), [automating COVID-19 reports](https://medium.com/towards-data-science/automating-a-covid19-report-update-and-publishing-with-github-actions-a3d64315e515), [interactive COVID-19 dashboards](https://medium.com/towards-data-science/interactive-covid19-report-with-rmarkdown-plotly-leaflet-and-shiny-c6a716af7d9b)) and published my first open-source packages: [raceplotly](https://github.com/lucharo/raceplotly) (45k+ downloads) and [nb2medium](https://github.com/lucharo/nb2medium) (17k+ downloads).
 
 More projects not yet posted about: [society](https://github.com/lucharo/society) (agent-to-agent orchestration in Go), [refine](https://github.com/lucharo/refine) (reflect on Claude Code sessions), [roborev](https://github.com/lucharo/roborev) (continuous code review for agents), [eval-claude](https://github.com/lucharo/eval-claude) (inspect_ai evals via Claude Code), [etymology-for-all](https://github.com/lucharo/etymology-for-all) (free etymology for everyone).
 
@@ -95,7 +59,7 @@ Active Discord member in: **marimo**, **polars**, **pixi**, **happier** (say hi!
 
 ### Beyond Code
 
-Core expertise is ML, but broad interests across the stack: low-level programming, full-stack apps, iOS apps (colour perception tools for colourblind people), Chrome extensions, data pipelines, data visualisation, open source, novel interfaces, wearable fitness tracking, and data-for-good. Previously wrote for [Towards Data Science](https://medium.com/@luischavesrodriguez).
+Core expertise is ML, but broad interests across the stack: low-level programming, full-stack apps, iOS apps (colour perception tools for colourblind people), Chrome extensions, data pipelines, data visualisation, open source, novel interfaces, wearable fitness tracking, and data-for-good.
 
 ---
 
