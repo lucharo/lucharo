@@ -29,9 +29,9 @@ AI-driven coding and agents have completely lowered the barriers to entry, letti
 
 - 🔬 **[society](https://github.com/lucharo/society)** — Agent-to-agent communication powered by mainstream transport protocols like SSH and HTTP.
 
-- 🔄 **[refine](https://github.com/lucharo/refine)** — Reflect on Claude Code sessions and refine skills through use.
+- 🔄 **[refine](https://github.com/lucharo/refine)** — Improve agent skills the more you use them.
 
-- 🧪 **[eval-claude / did-they-nerf-claude](https://github.com/lucharo/eval-claude)** — Run inspect_ai evals via Claude Code CLI. _Coming soon._
+- 🧪 **[eval-claude / did-they-nerf-claude](https://github.com/lucharo/eval-claude)** — Daily evals on Anthropic models to monitor model degradation.
 
 - 📖 **[etymology-for-all](https://github.com/lucharo/etymology-for-all)** — Free etymology for everyone.
 
