@@ -1,47 +1,102 @@
-# Luis Chaves Rodriguez (@lucharo)
+<!--
+  <img align="right" width="220" src="assets/headshot.jpg" alt="Luis Chaves Rodriguez">
+  TODO: uncomment and add professional headshot
+-->
 
-## Experience
+# Luis Chaves Rodriguez
 
-- MEng Biomedical Engineering - Imperial College London (ICL) (2015-2019) - MEng Thesis: *Study of Cooperation in Synthetic Microbial Communities by Division of Labour*
-- MSc Health Data Science & Machine Learning - ICL (2019-2020) - MSc Thesis with Visa: *Using transactional data to improve our understanding of health inequalities in the UK*
-- Data Scientist at Visa UK&I DS Team (2020-2021)
-- Senior Data Scientist I at Visa UK&I and then Visa Europe (2021-2022)
-- Senior Data Engineer II at Visa Europe (2022 - 2023)
+Biomedical engineer turned ML engineer. Currently training transformer models on RNA sequences for oligonucleotide drug design and delivery at GSK. Outside of work, I'm a passionate builder of creative software projects: multi-agent orchestration systems, novel human-agent interfaces, and open-source developer tools.
 
-## Packages 📦
+[luischav.es](https://luischav.es) · [LinkedIn](https://linkedin.com/in/lucharo) · London, UK
 
-- [raceplotly](https://github.com/lucharo/raceplotly) [![Downloads](https://pepy.tech/badge/raceplotly)](https://pepy.tech/project/raceplotly)
-- [nb2medium](https://github.com/lucharo/nb2medium) [![Downloads](https://pepy.tech/badge/nb2medium)](https://pepy.tech/project/nb2medium)
+---
 
-## Articles (Medium)
+### Career
 
-### Published in Towards Data Science
+| When | Role | Where |
+|------|------|-------|
+| 2025 -- | ML Engineer | **GSK** — transformer models on RNA for oligo drug design & delivery, multi-node multi-GPU training on Vertex AI, pioneered Claude Code adoption across AIML org |
+| 2024 -- 2025 | Data & ML Engineer | **Merqato** — demand forecasting for European fresh produce wholesalers (engineer #3) |
+| 2024 | Career break | Upskilling |
+| 2023 -- 2024 | Sr. Data Scientist II | **Visa Europe** — Technical Excellence team, scaled ETL across 27 European banks, led inner-source team of 8 |
+| 2021 -- 2022 | Sr. Data Scientist I | **Visa UK&I** — built VisaVerse, adopted by 400+ data scientists globally |
+| 2020 -- 2021 | Data Scientist | **Visa UK&I** — led GBP 1M consulting project, GPU-accelerated ML R&D |
+| 2019 -- 2020 | MSc Health Data Science & ML | **Imperial College London** — Distinction, 3rd/25 |
+| 2015 -- 2019 | MEng Biomedical Engineering | **Imperial College London** — First-Class Honours, iGEM 2018 |
 
-- [Announcing nb2medium](https://medium.com/towards-data-science/announcing-nb2medium-d123e2a8d52c)
-- [Automating a COVID19 report update and publishing with GitHub Actions](https://medium.com/towards-data-science/automating-a-covid19-report-update-and-publishing-with-github-actions-a3d64315e515)
-- [Interactive COVID-19 report with RMarkdown, Plotly, Leaflet and Shiny](https://medium.com/towards-data-science/interactive-covid19-report-with-rmarkdown-plotly-leaflet-and-shiny-c6a716af7d9b)
-- [Create an interactive COVID-19 report using R, host it for free and automate its update](https://medium.com/towards-data-science/create-an-interactive-covid-19-report-using-r-host-it-for-free-and-automate-its-update-41a5bdd46e9d)
-- [Making a Bar Chart Race Plot using Plotly — made easy](https://medium.com/towards-data-science/making-a-bar-chart-race-plot-using-plotly-made-easy-8dad3b1da955)
+### Projects
 
-### Published in JavaScript in Plain English
+AI-driven coding and agents have completely lowered the barriers to entry, letting me fully express my creativity through code. These span agent orchestration, novel interfaces, developer tooling, and more.
 
-- [Automating Event Management with Google Apps Script](https://medium.com/javascript-in-plain-english/automating-event-management-with-google-apps-script-383a6704a455)
+<table>
+<thead>
+<tr><th width="200">Project</th><th width="70">Stars</th><th>Description</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><b><a href="https://github.com/lucharo/mainthread">mainthread</a></b></td>
+<td><a href="https://github.com/lucharo/mainthread"><img src="https://img.shields.io/github/stars/lucharo/mainthread?style=flat-square&color=blue&label=" alt="stars"></a></td>
+<td>Trees of agents that communicate for long-running tasks and autonomous research</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/lucharo/c2c">c2c</a></b></td>
+<td><a href="https://github.com/lucharo/c2c"><img src="https://img.shields.io/github/stars/lucharo/c2c?style=flat-square&color=blue&label=" alt="stars"></a></td>
+<td>MCP server for recursive agent delegation; built Oct 2025, predating similar approaches</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/lucharo/always-on-claude">always-on-claude</a></b></td>
+<td><a href="https://github.com/lucharo/always-on-claude"><img src="https://img.shields.io/github/stars/lucharo/always-on-claude?style=flat-square&color=blue&label=" alt="stars"></a></td>
+<td>Guide for always-on Claude Code server with Tailscale + Mutagen</td>
+</tr>
+<tr>
+<td><b><a href="https://tfl.luischav.es">tfl-status</a></b></td>
+<td><a href="https://github.com/lucharo/tfl-status"><img src="https://img.shields.io/github/stars/lucharo/tfl-status?style=flat-square&color=blue&label=" alt="stars"></a></td>
+<td>TfL status page in the style of modern tech status pages</td>
+</tr>
+<tr>
+<td><b><a href="https://chromewebstore.google.com/detail/parquet-peek/ncgpleihcemfajejepcobggneogghkmc">parquet-peek</a></b></td>
+<td><a href="https://github.com/lucharo/parquet-peek"><img src="https://img.shields.io/github/stars/lucharo/parquet-peek?style=flat-square&color=blue&label=" alt="stars"></a></td>
+<td>Browse, sort & filter Parquet files in your browser (Chrome extension)</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/lucharo/slidev-marimo">slidev-marimo</a></b></td>
+<td><a href="https://github.com/lucharo/slidev-marimo"><img src="https://img.shields.io/github/stars/lucharo/slidev-marimo?style=flat-square&color=blue&label=" alt="stars"></a></td>
+<td>Marimo notebook integration for Slidev (Pyodide/WASM + live kernel)</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/lucharo/raceplotly">raceplotly</a></b></td>
+<td><a href="https://github.com/lucharo/raceplotly"><img src="https://img.shields.io/github/stars/lucharo/raceplotly?style=flat-square&color=blue&label=" alt="stars"></a></td>
+<td>Bar chart race plots with Plotly (45k+ downloads)</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/lucharo/nb2medium">nb2medium</a></b></td>
+<td><a href="https://github.com/lucharo/nb2medium"><img src="https://img.shields.io/github/stars/lucharo/nb2medium?style=flat-square&color=blue&label=" alt="stars"></a></td>
+<td>Publish Jupyter notebooks to Medium (17k+ downloads)</td>
+</tr>
+</tbody>
+</table>
 
-## Interests
+More projects not yet posted about: [society](https://github.com/lucharo/society) (agent-to-agent orchestration in Go), [refine](https://github.com/lucharo/refine) (reflect on Claude Code sessions), [roborev](https://github.com/lucharo/roborev) (continuous code review for agents), [eval-claude](https://github.com/lucharo/eval-claude) (inspect_ai evals via Claude Code), [etymology-for-all](https://github.com/lucharo/etymology-for-all) (free etymology for everyone).
 
-- Slow journalism
-- History, Politics, social justice
-- Data Science, Data Engineering and Web Applications
-- BioTech, MedTech, Biomedical Engineering
+### Open Source Contributions
 
-## Personal website (https://luischav.es)
+- **[marimo](https://github.com/marimo-team/marimo)** — 7 merged PRs: dotenv loading, pixi dev environment, Azure OpenAI, multi-column sorting, ACP dynamic model selection, islands fix, docs
+- **[happier](https://github.com/happier-dev/happier)** — 2 open PRs: CLI permission escalation fix, session decryption parallelization
+- **[kedro](https://github.com/kedro-org/kedro)** — dynamic session loading docs for non-Jupyter environments
+- **[kindtech](https://github.com/KindTechUK/kindtech)** — docs rewrite + codebase modernization with narwhals
+- **[wigglystuff](https://github.com/koaning/wigglystuff)** — TangleSelect component
+- Also contributed to: **Inspect AI** (UK AI Safety Institute), **roborev** (Wes McKinney), **pixi**
 
-- Main page (WIP)
-- Recipe portfolio [/recipe-portfolio](https://luischav.es/recipe-portfolio): my opportunity to learn web development, React, and Typescript while making something useful for myself with features I have not seen before on other websites.
-- Instagram Recipe Explorer [/recipes](https://luischav.es/recipes): Instagram does not have a search feature for saved posts which is how I discover new recipes to try out. Scrape my own Instagram saved posts and create a [mkdocs](https://github.com/mkdocs/mkdocs) gallery site with a search bar.
+### Community
 
-## Other notable projects
+Active Discord member in: **marimo**, **polars**, **pixi**, **happier** (say hi!)
 
-- [ONS Data Visualiser](https://lucha6.shinyapps.io/ONS2019dash/) deployed as a Shiny app to help others and myself explore Local Authority District (LAD) data from the Office For National Statistics (ONS) as part of my MSc Project in 2019/2020.
-- [YouTube AI Summarisation App](https://youtube-ai-summaries.streamlit.app/): Streamlit app that creates text summaries of Youtube videos using OpenAI models via the OpenAI API.
-- I was part of Imperial College's 2018 [iGEM](https://competition.igem.org/) team where we built an electrogenetic circuit to connect electrical currents to bacteria genetic expression. I was part of the hardware team building electrode array as well as the modeling team, simulating the electrochemical reactions necessary to induce gene expression in synthetically modified bacteria. Read more on [the project page](https://2018.igem.org/Team:Imperial_College/Project). The project led to [a paper (*Synthetic biology and bioelectrochemical tools for electrogenetic system engineering*)](https://www.science.org/doi/10.1126/sciadv.abm5091) years later, I was not part of further research.
+**[DataKind UK](https://datakind.org.uk)** — Community Committee Member & Volunteer Data Scientist. Built LASSO models, Streamlit apps, and data pipelines for charities including Learning With Parents, Citizens Advice, and Amos Bursary.
+
+### Beyond Code
+
+Core expertise is ML, but broad interests across the stack: low-level programming, full-stack apps, iOS apps (colour perception tools for colourblind people), Chrome extensions, data pipelines, data visualisation, open source, novel interfaces, wearable fitness tracking, and data-for-good. Previously wrote for [Towards Data Science](https://medium.com/@luischavesrodriguez).
+
+---
+
+*[luischav.es](https://luischav.es) — London, UK*
